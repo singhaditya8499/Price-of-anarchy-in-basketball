@@ -145,6 +145,7 @@ We only took data from last season. The accuracy of the model will improve with 
 2. Roughgarden, T., Selfish Routing and the Price of Anarchy, 2005, MIT Press, Cambridge.
 3. Data collected: https://www.basketball-reference.com/
 4. Basic basketball details: https://en.wikipedia.org/wiki/Basketball
+5. “Price of anarchy in basketball” Skinner, Brian, https://arxiv.org/abs/0908.1801v4
 
 
 ---
